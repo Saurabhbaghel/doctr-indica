@@ -1,0 +1,13 @@
+Object Detection Metrics
+https://github.com/rafaelpadilla/Object-Detection-Metrics
+
+
+Average Precision (AP), Precision and Recall per class:
+
+Class: words
+AP: 0.00%
+Precision: []
+Recall: []
+
+
+mAP: 0.00%

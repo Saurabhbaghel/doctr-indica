@@ -1,0 +1,909 @@
+CAGE log:	n_classes: 2	n_LFs: 3	n_epochs: 50	lr: 0.01
+Epoch: 0	test_accuracy_score: 0.17934411764705882
+Epoch: 0	test_average_metric: binary	test_f1_score: 0.0
+Epoch: 1	test_accuracy_score: 0.8203286096256684
+Epoch: 1	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 2	test_accuracy_score: 0.8203286096256684
+Epoch: 2	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 3	test_accuracy_score: 0.8203286096256684
+Epoch: 3	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 4	test_accuracy_score: 0.8203286096256684
+Epoch: 4	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 5	test_accuracy_score: 0.8203286096256684
+Epoch: 5	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 6	test_accuracy_score: 0.8203286096256684
+Epoch: 6	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 7	test_accuracy_score: 0.8203286096256684
+Epoch: 7	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 8	test_accuracy_score: 0.8203286096256684
+Epoch: 8	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 9	test_accuracy_score: 0.8203286096256684
+Epoch: 9	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 10	test_accuracy_score: 0.8203286096256684
+Epoch: 10	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 11	test_accuracy_score: 0.8203286096256684
+Epoch: 11	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 12	test_accuracy_score: 0.8203286096256684
+Epoch: 12	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 13	test_accuracy_score: 0.8203286096256684
+Epoch: 13	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 14	test_accuracy_score: 0.8203286096256684
+Epoch: 14	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 15	test_accuracy_score: 0.8203286096256684
+Epoch: 15	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 16	test_accuracy_score: 0.8203286096256684
+Epoch: 16	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 17	test_accuracy_score: 0.8203286096256684
+Epoch: 17	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 18	test_accuracy_score: 0.8203286096256684
+Epoch: 18	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 19	test_accuracy_score: 0.8203286096256684
+Epoch: 19	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 20	test_accuracy_score: 0.8203286096256684
+Epoch: 20	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 21	test_accuracy_score: 0.8203286096256684
+Epoch: 21	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 22	test_accuracy_score: 0.8203286096256684
+Epoch: 22	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 23	test_accuracy_score: 0.8203286096256684
+Epoch: 23	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 24	test_accuracy_score: 0.8203286096256684
+Epoch: 24	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 25	test_accuracy_score: 0.8203286096256684
+Epoch: 25	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 26	test_accuracy_score: 0.8203286096256684
+Epoch: 26	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 27	test_accuracy_score: 0.8268475935828877
+Epoch: 27	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 28	test_accuracy_score: 0.8268475935828877
+Epoch: 28	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 29	test_accuracy_score: 0.8268475935828877
+Epoch: 29	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 30	test_accuracy_score: 0.8268475935828877
+Epoch: 30	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 31	test_accuracy_score: 0.8268475935828877
+Epoch: 31	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 32	test_accuracy_score: 0.8268475935828877
+Epoch: 32	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 33	test_accuracy_score: 0.8268475935828877
+Epoch: 33	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 34	test_accuracy_score: 0.8268475935828877
+Epoch: 34	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 35	test_accuracy_score: 0.8268475935828877
+Epoch: 35	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 36	test_accuracy_score: 0.8268475935828877
+Epoch: 36	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 37	test_accuracy_score: 0.8268475935828877
+Epoch: 37	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 38	test_accuracy_score: 0.8268475935828877
+Epoch: 38	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 39	test_accuracy_score: 0.8268475935828877
+Epoch: 39	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 40	test_accuracy_score: 0.8268475935828877
+Epoch: 40	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 41	test_accuracy_score: 0.8268475935828877
+Epoch: 41	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 42	test_accuracy_score: 0.8268475935828877
+Epoch: 42	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 43	test_accuracy_score: 0.8268475935828877
+Epoch: 43	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 44	test_accuracy_score: 0.8268475935828877
+Epoch: 44	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 45	test_accuracy_score: 0.8268475935828877
+Epoch: 45	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 46	test_accuracy_score: 0.8268475935828877
+Epoch: 46	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 47	test_accuracy_score: 0.8268475935828877
+Epoch: 47	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 48	test_accuracy_score: 0.8268475935828877
+Epoch: 48	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 49	test_accuracy_score: 0.8268475935828877
+Epoch: 49	test_average_metric: binary	test_f1_score: 0.902779007988278
+CAGE log:	n_classes: 2	n_LFs: 3	n_epochs: 50	lr: 0.01
+Epoch: 0	test_accuracy_score: 0.2620788770053476
+Epoch: 0	test_average_metric: binary	test_f1_score: 0.0
+Epoch: 1	test_accuracy_score: 0.7377473262032086
+Epoch: 1	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 2	test_accuracy_score: 0.7377473262032086
+Epoch: 2	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 3	test_accuracy_score: 0.7377473262032086
+Epoch: 3	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 4	test_accuracy_score: 0.7377473262032086
+Epoch: 4	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 5	test_accuracy_score: 0.7377473262032086
+Epoch: 5	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 6	test_accuracy_score: 0.7377473262032086
+Epoch: 6	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 7	test_accuracy_score: 0.7377473262032086
+Epoch: 7	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 8	test_accuracy_score: 0.7377473262032086
+Epoch: 8	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 9	test_accuracy_score: 0.7377473262032086
+Epoch: 9	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 10	test_accuracy_score: 0.7377473262032086
+Epoch: 10	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 11	test_accuracy_score: 0.7377473262032086
+Epoch: 11	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 12	test_accuracy_score: 0.7377473262032086
+Epoch: 12	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 13	test_accuracy_score: 0.7377473262032086
+Epoch: 13	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 14	test_accuracy_score: 0.7377473262032086
+Epoch: 14	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 15	test_accuracy_score: 0.7377473262032086
+Epoch: 15	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 16	test_accuracy_score: 0.7377473262032086
+Epoch: 16	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 17	test_accuracy_score: 0.7377473262032086
+Epoch: 17	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 18	test_accuracy_score: 0.7377473262032086
+Epoch: 18	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 19	test_accuracy_score: 0.7377473262032086
+Epoch: 19	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 20	test_accuracy_score: 0.7377473262032086
+Epoch: 20	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 21	test_accuracy_score: 0.7377473262032086
+Epoch: 21	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 22	test_accuracy_score: 0.7377473262032086
+Epoch: 22	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 23	test_accuracy_score: 0.7377473262032086
+Epoch: 23	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 24	test_accuracy_score: 0.7377473262032086
+Epoch: 24	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 25	test_accuracy_score: 0.7377473262032086
+Epoch: 25	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 26	test_accuracy_score: 0.7377473262032086
+Epoch: 26	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 27	test_accuracy_score: 0.7377473262032086
+Epoch: 27	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 28	test_accuracy_score: 0.7377473262032086
+Epoch: 28	test_average_metric: binary	test_f1_score: 0.8490338210723898
+Epoch: 29	test_accuracy_score: 0.8622294117647059
+Epoch: 29	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 30	test_accuracy_score: 0.8622294117647059
+Epoch: 30	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 31	test_accuracy_score: 0.8622294117647059
+Epoch: 31	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 32	test_accuracy_score: 0.8622294117647059
+Epoch: 32	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 33	test_accuracy_score: 0.8622294117647059
+Epoch: 33	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 34	test_accuracy_score: 0.8622294117647059
+Epoch: 34	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 35	test_accuracy_score: 0.8622294117647059
+Epoch: 35	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 36	test_accuracy_score: 0.8622294117647059
+Epoch: 36	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 37	test_accuracy_score: 0.8622294117647059
+Epoch: 37	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 38	test_accuracy_score: 0.8622294117647059
+Epoch: 38	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 39	test_accuracy_score: 0.8622294117647059
+Epoch: 39	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 40	test_accuracy_score: 0.8622294117647059
+Epoch: 40	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 41	test_accuracy_score: 0.8622294117647059
+Epoch: 41	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 42	test_accuracy_score: 0.8622294117647059
+Epoch: 42	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 43	test_accuracy_score: 0.8622294117647059
+Epoch: 43	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 44	test_accuracy_score: 0.8622294117647059
+Epoch: 44	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 45	test_accuracy_score: 0.8622294117647059
+Epoch: 45	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 46	test_accuracy_score: 0.8622294117647059
+Epoch: 46	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 47	test_accuracy_score: 0.8622294117647059
+Epoch: 47	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 48	test_accuracy_score: 0.8622294117647059
+Epoch: 48	test_average_metric: binary	test_f1_score: 0.9129371753067362
+Epoch: 49	test_accuracy_score: 0.8622294117647059
+Epoch: 49	test_average_metric: binary	test_f1_score: 0.9129371753067362
+CAGE log:	n_classes: 2	n_LFs: 3	n_epochs: 50	lr: 0.01
+Epoch: 0	test_accuracy_score: 0.22746550802139037
+Epoch: 0	test_average_metric: binary	test_f1_score: 0.0
+Epoch: 1	test_accuracy_score: 0.7726136363636363
+Epoch: 1	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 2	test_accuracy_score: 0.7726136363636363
+Epoch: 2	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 3	test_accuracy_score: 0.7726136363636363
+Epoch: 3	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 4	test_accuracy_score: 0.7726136363636363
+Epoch: 4	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 5	test_accuracy_score: 0.7726136363636363
+Epoch: 5	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 6	test_accuracy_score: 0.7726136363636363
+Epoch: 6	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 7	test_accuracy_score: 0.7726136363636363
+Epoch: 7	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 8	test_accuracy_score: 0.7726136363636363
+Epoch: 8	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 9	test_accuracy_score: 0.7726136363636363
+Epoch: 9	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 10	test_accuracy_score: 0.7726136363636363
+Epoch: 10	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 11	test_accuracy_score: 0.7726136363636363
+Epoch: 11	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 12	test_accuracy_score: 0.7726136363636363
+Epoch: 12	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 13	test_accuracy_score: 0.7726136363636363
+Epoch: 13	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 14	test_accuracy_score: 0.7726136363636363
+Epoch: 14	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 15	test_accuracy_score: 0.7726136363636363
+Epoch: 15	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 16	test_accuracy_score: 0.7726136363636363
+Epoch: 16	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 17	test_accuracy_score: 0.7726136363636363
+Epoch: 17	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 18	test_accuracy_score: 0.7726136363636363
+Epoch: 18	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 19	test_accuracy_score: 0.7726136363636363
+Epoch: 19	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 20	test_accuracy_score: 0.7726136363636363
+Epoch: 20	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 21	test_accuracy_score: 0.7726136363636363
+Epoch: 21	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 22	test_accuracy_score: 0.7726136363636363
+Epoch: 22	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 23	test_accuracy_score: 0.7726136363636363
+Epoch: 23	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 24	test_accuracy_score: 0.7726136363636363
+Epoch: 24	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 25	test_accuracy_score: 0.7726136363636363
+Epoch: 25	test_average_metric: binary	test_f1_score: 0.8716836812060897
+Epoch: 26	test_accuracy_score: 0.8574729946524065
+Epoch: 26	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 27	test_accuracy_score: 0.8574729946524065
+Epoch: 27	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 28	test_accuracy_score: 0.8574729946524065
+Epoch: 28	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 29	test_accuracy_score: 0.8574729946524065
+Epoch: 29	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 30	test_accuracy_score: 0.8574729946524065
+Epoch: 30	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 31	test_accuracy_score: 0.8574729946524065
+Epoch: 31	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 32	test_accuracy_score: 0.8574729946524065
+Epoch: 32	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 33	test_accuracy_score: 0.8574729946524065
+Epoch: 33	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 34	test_accuracy_score: 0.8574729946524065
+Epoch: 34	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 35	test_accuracy_score: 0.8574729946524065
+Epoch: 35	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 36	test_accuracy_score: 0.8574729946524065
+Epoch: 36	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 37	test_accuracy_score: 0.8574729946524065
+Epoch: 37	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 38	test_accuracy_score: 0.8574729946524065
+Epoch: 38	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 39	test_accuracy_score: 0.8574729946524065
+Epoch: 39	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 40	test_accuracy_score: 0.8574729946524065
+Epoch: 40	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 41	test_accuracy_score: 0.8574729946524065
+Epoch: 41	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 42	test_accuracy_score: 0.8574729946524065
+Epoch: 42	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 43	test_accuracy_score: 0.8574729946524065
+Epoch: 43	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 44	test_accuracy_score: 0.8574729946524065
+Epoch: 44	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 45	test_accuracy_score: 0.8574729946524065
+Epoch: 45	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 46	test_accuracy_score: 0.8574729946524065
+Epoch: 46	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 47	test_accuracy_score: 0.8574729946524065
+Epoch: 47	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 48	test_accuracy_score: 0.8574729946524065
+Epoch: 48	test_average_metric: binary	test_f1_score: 0.9142483006137979
+Epoch: 49	test_accuracy_score: 0.8574729946524065
+Epoch: 49	test_average_metric: binary	test_f1_score: 0.9142483006137979
+CAGE log:	n_classes: 2	n_LFs: 3	n_epochs: 50	lr: 0.01
+Epoch: 0	test_accuracy_score: 0.23216069518716578
+Epoch: 0	test_average_metric: binary	test_f1_score: 0.0
+Epoch: 1	test_accuracy_score: 0.7676631016042781
+Epoch: 1	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 2	test_accuracy_score: 0.7676631016042781
+Epoch: 2	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 3	test_accuracy_score: 0.7676631016042781
+Epoch: 3	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 4	test_accuracy_score: 0.7676631016042781
+Epoch: 4	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 5	test_accuracy_score: 0.7676631016042781
+Epoch: 5	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 6	test_accuracy_score: 0.7676631016042781
+Epoch: 6	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 7	test_accuracy_score: 0.7676631016042781
+Epoch: 7	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 8	test_accuracy_score: 0.7676631016042781
+Epoch: 8	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 9	test_accuracy_score: 0.7676631016042781
+Epoch: 9	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 10	test_accuracy_score: 0.7676631016042781
+Epoch: 10	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 11	test_accuracy_score: 0.7676631016042781
+Epoch: 11	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 12	test_accuracy_score: 0.7676631016042781
+Epoch: 12	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 13	test_accuracy_score: 0.7676631016042781
+Epoch: 13	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 14	test_accuracy_score: 0.7676631016042781
+Epoch: 14	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 15	test_accuracy_score: 0.7676631016042781
+Epoch: 15	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 16	test_accuracy_score: 0.7676631016042781
+Epoch: 16	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 17	test_accuracy_score: 0.7676631016042781
+Epoch: 17	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 18	test_accuracy_score: 0.7676631016042781
+Epoch: 18	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 19	test_accuracy_score: 0.7676631016042781
+Epoch: 19	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 20	test_accuracy_score: 0.7676631016042781
+Epoch: 20	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 21	test_accuracy_score: 0.7676631016042781
+Epoch: 21	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 22	test_accuracy_score: 0.7676631016042781
+Epoch: 22	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 23	test_accuracy_score: 0.7676631016042781
+Epoch: 23	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 24	test_accuracy_score: 0.7676631016042781
+Epoch: 24	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 25	test_accuracy_score: 0.7676631016042781
+Epoch: 25	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 26	test_accuracy_score: 0.7676631016042781
+Epoch: 26	test_average_metric: binary	test_f1_score: 0.868556676859144
+Epoch: 27	test_accuracy_score: 0.8699965240641712
+Epoch: 27	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 28	test_accuracy_score: 0.8699965240641712
+Epoch: 28	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 29	test_accuracy_score: 0.8699965240641712
+Epoch: 29	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 30	test_accuracy_score: 0.8699965240641712
+Epoch: 30	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 31	test_accuracy_score: 0.8699965240641712
+Epoch: 31	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 32	test_accuracy_score: 0.8699965240641712
+Epoch: 32	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 33	test_accuracy_score: 0.8699965240641712
+Epoch: 33	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 34	test_accuracy_score: 0.8699965240641712
+Epoch: 34	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 35	test_accuracy_score: 0.8699965240641712
+Epoch: 35	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 36	test_accuracy_score: 0.8699965240641712
+Epoch: 36	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 37	test_accuracy_score: 0.8699965240641712
+Epoch: 37	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 38	test_accuracy_score: 0.8699965240641712
+Epoch: 38	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 39	test_accuracy_score: 0.8699965240641712
+Epoch: 39	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 40	test_accuracy_score: 0.8699965240641712
+Epoch: 40	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 41	test_accuracy_score: 0.8699965240641712
+Epoch: 41	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 42	test_accuracy_score: 0.8699965240641712
+Epoch: 42	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 43	test_accuracy_score: 0.8699965240641712
+Epoch: 43	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 44	test_accuracy_score: 0.8699965240641712
+Epoch: 44	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 45	test_accuracy_score: 0.8699965240641712
+Epoch: 45	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 46	test_accuracy_score: 0.8699965240641712
+Epoch: 46	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 47	test_accuracy_score: 0.8699965240641712
+Epoch: 47	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 48	test_accuracy_score: 0.8699965240641712
+Epoch: 48	test_average_metric: binary	test_f1_score: 0.9206559692710842
+Epoch: 49	test_accuracy_score: 0.8699965240641712
+Epoch: 49	test_average_metric: binary	test_f1_score: 0.9206559692710842
+CAGE log:	n_classes: 2	n_LFs: 3	n_epochs: 50	lr: 0.01
+Epoch: 0	test_accuracy_score: 0.23773181818181818
+Epoch: 0	test_average_metric: binary	test_f1_score: 0.0
+Epoch: 1	test_accuracy_score: 0.7621526737967914
+Epoch: 1	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 2	test_accuracy_score: 0.7621526737967914
+Epoch: 2	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 3	test_accuracy_score: 0.7621526737967914
+Epoch: 3	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 4	test_accuracy_score: 0.7621526737967914
+Epoch: 4	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 5	test_accuracy_score: 0.7621526737967914
+Epoch: 5	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 6	test_accuracy_score: 0.7621526737967914
+Epoch: 6	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 7	test_accuracy_score: 0.7621526737967914
+Epoch: 7	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 8	test_accuracy_score: 0.7621526737967914
+Epoch: 8	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 9	test_accuracy_score: 0.7621526737967914
+Epoch: 9	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 10	test_accuracy_score: 0.7621526737967914
+Epoch: 10	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 11	test_accuracy_score: 0.7621526737967914
+Epoch: 11	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 12	test_accuracy_score: 0.7621526737967914
+Epoch: 12	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 13	test_accuracy_score: 0.7621526737967914
+Epoch: 13	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 14	test_accuracy_score: 0.7621526737967914
+Epoch: 14	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 15	test_accuracy_score: 0.7621526737967914
+Epoch: 15	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 16	test_accuracy_score: 0.7621526737967914
+Epoch: 16	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 17	test_accuracy_score: 0.7621526737967914
+Epoch: 17	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 18	test_accuracy_score: 0.7621526737967914
+Epoch: 18	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 19	test_accuracy_score: 0.7621526737967914
+Epoch: 19	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 20	test_accuracy_score: 0.7621526737967914
+Epoch: 20	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 21	test_accuracy_score: 0.7621526737967914
+Epoch: 21	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 22	test_accuracy_score: 0.7621526737967914
+Epoch: 22	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 23	test_accuracy_score: 0.7621526737967914
+Epoch: 23	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 24	test_accuracy_score: 0.7621526737967914
+Epoch: 24	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 25	test_accuracy_score: 0.7621526737967914
+Epoch: 25	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 26	test_accuracy_score: 0.7621526737967914
+Epoch: 26	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 27	test_accuracy_score: 0.7621526737967914
+Epoch: 27	test_average_metric: binary	test_f1_score: 0.8650198119364471
+Epoch: 28	test_accuracy_score: 0.8392791443850267
+Epoch: 28	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 29	test_accuracy_score: 0.8392791443850267
+Epoch: 29	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 30	test_accuracy_score: 0.8392791443850267
+Epoch: 30	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 31	test_accuracy_score: 0.8392791443850267
+Epoch: 31	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 32	test_accuracy_score: 0.8392791443850267
+Epoch: 32	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 33	test_accuracy_score: 0.8392791443850267
+Epoch: 33	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 34	test_accuracy_score: 0.8392791443850267
+Epoch: 34	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 35	test_accuracy_score: 0.8392791443850267
+Epoch: 35	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 36	test_accuracy_score: 0.8392791443850267
+Epoch: 36	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 37	test_accuracy_score: 0.8392791443850267
+Epoch: 37	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 38	test_accuracy_score: 0.8392791443850267
+Epoch: 38	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 39	test_accuracy_score: 0.8392791443850267
+Epoch: 39	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 40	test_accuracy_score: 0.8392791443850267
+Epoch: 40	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 41	test_accuracy_score: 0.8392791443850267
+Epoch: 41	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 42	test_accuracy_score: 0.8392791443850267
+Epoch: 42	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 43	test_accuracy_score: 0.8392791443850267
+Epoch: 43	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 44	test_accuracy_score: 0.8392791443850267
+Epoch: 44	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 45	test_accuracy_score: 0.8392791443850267
+Epoch: 45	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 46	test_accuracy_score: 0.8392791443850267
+Epoch: 46	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 47	test_accuracy_score: 0.8392791443850267
+Epoch: 47	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 48	test_accuracy_score: 0.8392791443850267
+Epoch: 48	test_average_metric: binary	test_f1_score: 0.9024427612241884
+Epoch: 49	test_accuracy_score: 0.8392791443850267
+Epoch: 49	test_average_metric: binary	test_f1_score: 0.9024427612241884
+CAGE log:	n_classes: 2	n_LFs: 3	n_epochs: 50	lr: 0.01
+Epoch: 0	test_accuracy_score: 0.2268409090909091
+Epoch: 0	test_average_metric: binary	test_f1_score: 0.0
+Epoch: 1	test_accuracy_score: 0.7727745989304813
+Epoch: 1	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 2	test_accuracy_score: 0.7727745989304813
+Epoch: 2	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 3	test_accuracy_score: 0.7727745989304813
+Epoch: 3	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 4	test_accuracy_score: 0.7727745989304813
+Epoch: 4	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 5	test_accuracy_score: 0.7727745989304813
+Epoch: 5	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 6	test_accuracy_score: 0.7727745989304813
+Epoch: 6	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 7	test_accuracy_score: 0.7727745989304813
+Epoch: 7	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 8	test_accuracy_score: 0.7727745989304813
+Epoch: 8	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 9	test_accuracy_score: 0.7727745989304813
+Epoch: 9	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 10	test_accuracy_score: 0.7727745989304813
+Epoch: 10	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 11	test_accuracy_score: 0.7727745989304813
+Epoch: 11	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 12	test_accuracy_score: 0.7727745989304813
+Epoch: 12	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 13	test_accuracy_score: 0.7727745989304813
+Epoch: 13	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 14	test_accuracy_score: 0.7727745989304813
+Epoch: 14	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 15	test_accuracy_score: 0.7727745989304813
+Epoch: 15	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 16	test_accuracy_score: 0.7727745989304813
+Epoch: 16	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 17	test_accuracy_score: 0.7727745989304813
+Epoch: 17	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 18	test_accuracy_score: 0.7727745989304813
+Epoch: 18	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 19	test_accuracy_score: 0.7727745989304813
+Epoch: 19	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 20	test_accuracy_score: 0.7727745989304813
+Epoch: 20	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 21	test_accuracy_score: 0.7727745989304813
+Epoch: 21	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 22	test_accuracy_score: 0.7727745989304813
+Epoch: 22	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 23	test_accuracy_score: 0.7727745989304813
+Epoch: 23	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 24	test_accuracy_score: 0.7727745989304813
+Epoch: 24	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 25	test_accuracy_score: 0.7727745989304813
+Epoch: 25	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 26	test_accuracy_score: 0.7727745989304813
+Epoch: 26	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 27	test_accuracy_score: 0.7727745989304813
+Epoch: 27	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 28	test_accuracy_score: 0.7727745989304813
+Epoch: 28	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 29	test_accuracy_score: 0.7727745989304813
+Epoch: 29	test_average_metric: binary	test_f1_score: 0.8718210079651931
+Epoch: 30	test_accuracy_score: 0.833533422459893
+Epoch: 30	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 31	test_accuracy_score: 0.833533422459893
+Epoch: 31	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 32	test_accuracy_score: 0.833533422459893
+Epoch: 32	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 33	test_accuracy_score: 0.833533422459893
+Epoch: 33	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 34	test_accuracy_score: 0.833533422459893
+Epoch: 34	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 35	test_accuracy_score: 0.833533422459893
+Epoch: 35	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 36	test_accuracy_score: 0.833533422459893
+Epoch: 36	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 37	test_accuracy_score: 0.833533422459893
+Epoch: 37	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 38	test_accuracy_score: 0.833533422459893
+Epoch: 38	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 39	test_accuracy_score: 0.833533422459893
+Epoch: 39	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 40	test_accuracy_score: 0.833533422459893
+Epoch: 40	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 41	test_accuracy_score: 0.833533422459893
+Epoch: 41	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 42	test_accuracy_score: 0.833533422459893
+Epoch: 42	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 43	test_accuracy_score: 0.833533422459893
+Epoch: 43	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 44	test_accuracy_score: 0.833533422459893
+Epoch: 44	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 45	test_accuracy_score: 0.833533422459893
+Epoch: 45	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 46	test_accuracy_score: 0.833533422459893
+Epoch: 46	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 47	test_accuracy_score: 0.833533422459893
+Epoch: 47	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 48	test_accuracy_score: 0.833533422459893
+Epoch: 48	test_average_metric: binary	test_f1_score: 0.9015298978470652
+Epoch: 49	test_accuracy_score: 0.833533422459893
+Epoch: 49	test_average_metric: binary	test_f1_score: 0.9015298978470652
+CAGE log:	n_classes: 2	n_LFs: 3	n_epochs: 50	lr: 0.01
+Epoch: 0	test_accuracy_score: 0.17934411764705882
+Epoch: 0	test_average_metric: binary	test_f1_score: 0.0
+Epoch: 1	test_accuracy_score: 0.8203286096256684
+Epoch: 1	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 2	test_accuracy_score: 0.8203286096256684
+Epoch: 2	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 3	test_accuracy_score: 0.8203286096256684
+Epoch: 3	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 4	test_accuracy_score: 0.8203286096256684
+Epoch: 4	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 5	test_accuracy_score: 0.8203286096256684
+Epoch: 5	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 6	test_accuracy_score: 0.8203286096256684
+Epoch: 6	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 7	test_accuracy_score: 0.8203286096256684
+Epoch: 7	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 8	test_accuracy_score: 0.8203286096256684
+Epoch: 8	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 9	test_accuracy_score: 0.8203286096256684
+Epoch: 9	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 10	test_accuracy_score: 0.8203286096256684
+Epoch: 10	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 11	test_accuracy_score: 0.8203286096256684
+Epoch: 11	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 12	test_accuracy_score: 0.8203286096256684
+Epoch: 12	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 13	test_accuracy_score: 0.8203286096256684
+Epoch: 13	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 14	test_accuracy_score: 0.8203286096256684
+Epoch: 14	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 15	test_accuracy_score: 0.8203286096256684
+Epoch: 15	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 16	test_accuracy_score: 0.8203286096256684
+Epoch: 16	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 17	test_accuracy_score: 0.8203286096256684
+Epoch: 17	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 18	test_accuracy_score: 0.8203286096256684
+Epoch: 18	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 19	test_accuracy_score: 0.8203286096256684
+Epoch: 19	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 20	test_accuracy_score: 0.8203286096256684
+Epoch: 20	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 21	test_accuracy_score: 0.8203286096256684
+Epoch: 21	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 22	test_accuracy_score: 0.8203286096256684
+Epoch: 22	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 23	test_accuracy_score: 0.8203286096256684
+Epoch: 23	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 24	test_accuracy_score: 0.8203286096256684
+Epoch: 24	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 25	test_accuracy_score: 0.8203286096256684
+Epoch: 25	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 26	test_accuracy_score: 0.8203286096256684
+Epoch: 26	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 27	test_accuracy_score: 0.8268475935828877
+Epoch: 27	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 28	test_accuracy_score: 0.8268475935828877
+Epoch: 28	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 29	test_accuracy_score: 0.8268475935828877
+Epoch: 29	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 30	test_accuracy_score: 0.8268475935828877
+Epoch: 30	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 31	test_accuracy_score: 0.8268475935828877
+Epoch: 31	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 32	test_accuracy_score: 0.8268475935828877
+Epoch: 32	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 33	test_accuracy_score: 0.8268475935828877
+Epoch: 33	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 34	test_accuracy_score: 0.8268475935828877
+Epoch: 34	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 35	test_accuracy_score: 0.8268475935828877
+Epoch: 35	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 36	test_accuracy_score: 0.8268475935828877
+Epoch: 36	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 37	test_accuracy_score: 0.8268475935828877
+Epoch: 37	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 38	test_accuracy_score: 0.8268475935828877
+Epoch: 38	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 39	test_accuracy_score: 0.8268475935828877
+Epoch: 39	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 40	test_accuracy_score: 0.8268475935828877
+Epoch: 40	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 41	test_accuracy_score: 0.8268475935828877
+Epoch: 41	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 42	test_accuracy_score: 0.8268475935828877
+Epoch: 42	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 43	test_accuracy_score: 0.8268475935828877
+Epoch: 43	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 44	test_accuracy_score: 0.8268475935828877
+Epoch: 44	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 45	test_accuracy_score: 0.8268475935828877
+Epoch: 45	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 46	test_accuracy_score: 0.8268475935828877
+Epoch: 46	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 47	test_accuracy_score: 0.8268475935828877
+Epoch: 47	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 48	test_accuracy_score: 0.8268475935828877
+Epoch: 48	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 49	test_accuracy_score: 0.8268475935828877
+Epoch: 49	test_average_metric: binary	test_f1_score: 0.902779007988278
+CAGE log:	n_classes: 2	n_LFs: 3	n_epochs: 50	lr: 0.01
+Epoch: 0	test_accuracy_score: 0.17934411764705882
+Epoch: 0	test_average_metric: binary	test_f1_score: 0.0
+Epoch: 1	test_accuracy_score: 0.8203286096256684
+Epoch: 1	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 2	test_accuracy_score: 0.8203286096256684
+Epoch: 2	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 3	test_accuracy_score: 0.8203286096256684
+Epoch: 3	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 4	test_accuracy_score: 0.8203286096256684
+Epoch: 4	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 5	test_accuracy_score: 0.8203286096256684
+Epoch: 5	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 6	test_accuracy_score: 0.8203286096256684
+Epoch: 6	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 7	test_accuracy_score: 0.8203286096256684
+Epoch: 7	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 8	test_accuracy_score: 0.8203286096256684
+Epoch: 8	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 9	test_accuracy_score: 0.8203286096256684
+Epoch: 9	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 10	test_accuracy_score: 0.8203286096256684
+Epoch: 10	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 11	test_accuracy_score: 0.8203286096256684
+Epoch: 11	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 12	test_accuracy_score: 0.8203286096256684
+Epoch: 12	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 13	test_accuracy_score: 0.8203286096256684
+Epoch: 13	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 14	test_accuracy_score: 0.8203286096256684
+Epoch: 14	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 15	test_accuracy_score: 0.8203286096256684
+Epoch: 15	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 16	test_accuracy_score: 0.8203286096256684
+Epoch: 16	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 17	test_accuracy_score: 0.8203286096256684
+Epoch: 17	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 18	test_accuracy_score: 0.8203286096256684
+Epoch: 18	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 19	test_accuracy_score: 0.8203286096256684
+Epoch: 19	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 20	test_accuracy_score: 0.8203286096256684
+Epoch: 20	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 21	test_accuracy_score: 0.8203286096256684
+Epoch: 21	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 22	test_accuracy_score: 0.8203286096256684
+Epoch: 22	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 23	test_accuracy_score: 0.8203286096256684
+Epoch: 23	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 24	test_accuracy_score: 0.8203286096256684
+Epoch: 24	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 25	test_accuracy_score: 0.8203286096256684
+Epoch: 25	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 26	test_accuracy_score: 0.8203286096256684
+Epoch: 26	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 27	test_accuracy_score: 0.8268475935828877
+Epoch: 27	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 28	test_accuracy_score: 0.8268475935828877
+Epoch: 28	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 29	test_accuracy_score: 0.8268475935828877
+Epoch: 29	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 30	test_accuracy_score: 0.8268475935828877
+Epoch: 30	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 31	test_accuracy_score: 0.8268475935828877
+Epoch: 31	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 32	test_accuracy_score: 0.8268475935828877
+Epoch: 32	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 33	test_accuracy_score: 0.8268475935828877
+Epoch: 33	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 34	test_accuracy_score: 0.8268475935828877
+Epoch: 34	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 35	test_accuracy_score: 0.8268475935828877
+Epoch: 35	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 36	test_accuracy_score: 0.8268475935828877
+Epoch: 36	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 37	test_accuracy_score: 0.8268475935828877
+Epoch: 37	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 38	test_accuracy_score: 0.8268475935828877
+Epoch: 38	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 39	test_accuracy_score: 0.8268475935828877
+Epoch: 39	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 40	test_accuracy_score: 0.8268475935828877
+Epoch: 40	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 41	test_accuracy_score: 0.8268475935828877
+Epoch: 41	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 42	test_accuracy_score: 0.8268475935828877
+Epoch: 42	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 43	test_accuracy_score: 0.8268475935828877
+Epoch: 43	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 44	test_accuracy_score: 0.8268475935828877
+Epoch: 44	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 45	test_accuracy_score: 0.8268475935828877
+Epoch: 45	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 46	test_accuracy_score: 0.8268475935828877
+Epoch: 46	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 47	test_accuracy_score: 0.8268475935828877
+Epoch: 47	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 48	test_accuracy_score: 0.8268475935828877
+Epoch: 48	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 49	test_accuracy_score: 0.8268475935828877
+Epoch: 49	test_average_metric: binary	test_f1_score: 0.902779007988278
+CAGE log:	n_classes: 2	n_LFs: 3	n_epochs: 50	lr: 0.01
+Epoch: 0	test_accuracy_score: 0.17934411764705882
+Epoch: 0	test_average_metric: binary	test_f1_score: 0.0
+Epoch: 1	test_accuracy_score: 0.8203286096256684
+Epoch: 1	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 2	test_accuracy_score: 0.8203286096256684
+Epoch: 2	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 3	test_accuracy_score: 0.8203286096256684
+Epoch: 3	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 4	test_accuracy_score: 0.8203286096256684
+Epoch: 4	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 5	test_accuracy_score: 0.8203286096256684
+Epoch: 5	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 6	test_accuracy_score: 0.8203286096256684
+Epoch: 6	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 7	test_accuracy_score: 0.8203286096256684
+Epoch: 7	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 8	test_accuracy_score: 0.8203286096256684
+Epoch: 8	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 9	test_accuracy_score: 0.8203286096256684
+Epoch: 9	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 10	test_accuracy_score: 0.8203286096256684
+Epoch: 10	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 11	test_accuracy_score: 0.8203286096256684
+Epoch: 11	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 12	test_accuracy_score: 0.8203286096256684
+Epoch: 12	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 13	test_accuracy_score: 0.8203286096256684
+Epoch: 13	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 14	test_accuracy_score: 0.8203286096256684
+Epoch: 14	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 15	test_accuracy_score: 0.8203286096256684
+Epoch: 15	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 16	test_accuracy_score: 0.8203286096256684
+Epoch: 16	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 17	test_accuracy_score: 0.8203286096256684
+Epoch: 17	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 18	test_accuracy_score: 0.8203286096256684
+Epoch: 18	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 19	test_accuracy_score: 0.8203286096256684
+Epoch: 19	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 20	test_accuracy_score: 0.8203286096256684
+Epoch: 20	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 21	test_accuracy_score: 0.8203286096256684
+Epoch: 21	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 22	test_accuracy_score: 0.8203286096256684
+Epoch: 22	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 23	test_accuracy_score: 0.8203286096256684
+Epoch: 23	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 24	test_accuracy_score: 0.8203286096256684
+Epoch: 24	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 25	test_accuracy_score: 0.8203286096256684
+Epoch: 25	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 26	test_accuracy_score: 0.8203286096256684
+Epoch: 26	test_average_metric: binary	test_f1_score: 0.9012972190907055
+Epoch: 27	test_accuracy_score: 0.8268475935828877
+Epoch: 27	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 28	test_accuracy_score: 0.8268475935828877
+Epoch: 28	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 29	test_accuracy_score: 0.8268475935828877
+Epoch: 29	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 30	test_accuracy_score: 0.8268475935828877
+Epoch: 30	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 31	test_accuracy_score: 0.8268475935828877
+Epoch: 31	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 32	test_accuracy_score: 0.8268475935828877
+Epoch: 32	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 33	test_accuracy_score: 0.8268475935828877
+Epoch: 33	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 34	test_accuracy_score: 0.8268475935828877
+Epoch: 34	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 35	test_accuracy_score: 0.8268475935828877
+Epoch: 35	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 36	test_accuracy_score: 0.8268475935828877
+Epoch: 36	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 37	test_accuracy_score: 0.8268475935828877
+Epoch: 37	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 38	test_accuracy_score: 0.8268475935828877
+Epoch: 38	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 39	test_accuracy_score: 0.8268475935828877
+Epoch: 39	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 40	test_accuracy_score: 0.8268475935828877
+Epoch: 40	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 41	test_accuracy_score: 0.8268475935828877
+Epoch: 41	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 42	test_accuracy_score: 0.8268475935828877
+Epoch: 42	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 43	test_accuracy_score: 0.8268475935828877
+Epoch: 43	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 44	test_accuracy_score: 0.8268475935828877
+Epoch: 44	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 45	test_accuracy_score: 0.8268475935828877
+Epoch: 45	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 46	test_accuracy_score: 0.8268475935828877
+Epoch: 46	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 47	test_accuracy_score: 0.8268475935828877
+Epoch: 47	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 48	test_accuracy_score: 0.8268475935828877
+Epoch: 48	test_average_metric: binary	test_f1_score: 0.902779007988278
+Epoch: 49	test_accuracy_score: 0.8268475935828877
+Epoch: 49	test_average_metric: binary	test_f1_score: 0.902779007988278
