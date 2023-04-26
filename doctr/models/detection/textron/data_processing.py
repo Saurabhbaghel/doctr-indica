@@ -18,7 +18,7 @@ class pixelLabels(enum.Enum):
 class Labeling:
     def __init__(self,imgfile, model) -> None:
         # TODO change INPUT_IMG_DIR
-        self.imgfile = INPUT_IMG_DIR + imgfile
+        self.imgfile = imgfile #INPUT_IMG_DIR + imgfile
         image = io.imread(self.imgfile) # skimage gives RGB so does torchvision.io imgfile.squeeze().permute(1, 2, 0).cpu().numpy() 
         image2 = Image.open(self.imgfile)  # ToPILImage(imgfile) 
         self.image3 = cv2.imread(self.imgfile) # making the channel last imgfile.squeeze().permute(1, 2, 0).cpu().numpy() # 

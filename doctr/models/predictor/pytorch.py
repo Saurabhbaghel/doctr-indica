@@ -18,6 +18,7 @@ from doctr.models.detection.predictor import DetectionPredictor
 from doctr.models.recognition.predictor import RecognitionPredictor, TrOCRPredictor
 from doctr.models.recognition.trocr import TROCR
 from doctr.utils.geometry import rotate_boxes, rotate_image
+from doctr.io.image import read_img_as_numpy
 
 from .base import _OCRPredictor
 
@@ -125,7 +126,12 @@ class OCRPredictor(nn.Module, _OCRPredictor):
         #     pages = [io.read_image(pages)]
             # loc_preds = [list(loc_pred) for loc_pred in loc_preds]
             
-        
+        if name_model == "textron":
+            pages_: list[np.ndarray] = []
+            for page_name in pages:
+                pages_.append(read_img_as_numpy(page_name))
+            pages = pages_
+                
         # Check whether crop mode should be switched to channels first
         channels_last = len(pages) == 0 or isinstance(pages[0], np.ndarray) or isinstance(pages[0], str) # pages[0] will be string for textron
 
